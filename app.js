@@ -1,7 +1,7 @@
 const botaoReiniciar = document.getElementById("reiniciar");
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
